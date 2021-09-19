@@ -13,7 +13,7 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/icaceres/Libft)](https://github.com/JaeSeoKim/badge42)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaceresg&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaceresg&show_icons=true&theme=dracula)
 
 
 <h3 align="left">Connect with me:</h3>
