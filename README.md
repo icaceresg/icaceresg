@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **icaceres@student.42madrid.com**
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/icaceres)](https://github.com/JaeSeoKim/badge42)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ivancacebm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivancacebm" height="30" width="40" /></a>
