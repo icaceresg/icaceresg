@@ -11,6 +11,7 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/icaceres)](https://github.com/JaeSeoKim/badge42)
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/libft)](https://github.com/JaeSeoKim/badge42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
