@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 I’m currently studying [Computer Engineering](Engineering Computer)
+- 👨‍💻 I’m currently studying [Computer Engineering]
 
 - 📫 How to reach me **icaceres@student.42madrid.com**
 
