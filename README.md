@@ -13,6 +13,8 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/icaceres/Libft)](https://github.com/JaeSeoKim/badge42)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaceresg)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ivancacebm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivancacebm" height="30" width="40" /></a>
