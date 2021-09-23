@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🌱 I’m currently learning **C** on **42Madrid**
+- 🌱 I’m currently learning **C** at **42Madrid**
 
 - 👨‍💻 I’m currently studying [Computer Engineering]
 
