@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **icaceres@student.42madrid.com**
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/icaceres)](https://github.com/JaeSeoKim/badge42)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaceresg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
